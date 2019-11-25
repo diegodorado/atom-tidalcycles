@@ -15,7 +15,7 @@
     'name': 'keyword.operator.function.infix.haskell'
   }
   {
-    'match': '\\b(d[1-9])\\b'
+    'match': '\\b([d|m|c][0-7])\\b'
     'name': 'support.function.tidalcycles'
   }
   {
